@@ -1,8 +1,9 @@
-# node-mongodb-demo
+# node-mongodb-plus
 
 # 介绍
 
-学习慕课网Scott的node视频教程[地址](http://www.imooc.com/learn/75)写的全部代码，在本地能成功跑起来
+学习慕课网Scott的node第二期建站视频教程[地址](http://www.imooc.com/learn/197)写的全部代码，在本地能成功跑起来
+最好先跑一下第一期[地址](https://github.com/chuanfe/node-mongodb-demo)
 
 # 安装部署
 ```
