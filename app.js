@@ -11,7 +11,7 @@ var dbUrl = 'mongodb://localhost:27017/wuch'
 
 mongoose.connect(dbUrl,{useMongoClient: true})
 
-app.set('views','./views/pages')
+app.set('views','./app/views/pages')
 app.set('view engine', 'jade')
 app.use(bodyParser.urlencoded())
 app.use(session({
